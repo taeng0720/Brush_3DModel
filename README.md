@@ -19,6 +19,11 @@
 
 ### ⚙️ 개발 환경
 - **DEV Tools** : Unity, Rider, VS, VSC
-- **Design Tools** : Blender, 등등 서술할 예정
+- **Design Tools** : Blender, 3DSMAX, Maya, Zbrush, Substance 3Dpainter
 
 ## 📌 주요 기능
+- **depression** 우울증에 대한 스토리를 담은 게임으로 게임을 진행하며 유추할 수 있다.
+- **Grappling** 여러 오브젝트를 그랩으로 잡고 여러곳을 날아다닐 수 있다.
+- **Texture** 공격을 하면 그 오브젝트에 있는 텍스쳐를 뺴낼 수 있다.
+- **Inventory** 텍스쳐를 빼내고 그 텍스쳐들을 저장할 수 있다(최대 3개)
+- **Speed** 대쉬와 그래플링등으로 빠른 속도감을 느낄 수 있다.
